@@ -1,9 +1,6 @@
 # SreeCharan Desu - AKA 𝚂𝚛3𝚇𝟶𝚛
 
-# Repository Documentation
-
-
-## Repository Architecture
+**Repository Documentation**
 
 ```mermaid
 graph TB
